@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is my development server!! Runing in docker !! changed 1
+          This is my development server!! Runing in docker !! 
+          This change was made on the feature branch and accepted via a pull request.
         </p>
         <a
           className="App-link"
